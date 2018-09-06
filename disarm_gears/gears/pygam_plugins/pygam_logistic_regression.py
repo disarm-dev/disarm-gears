@@ -7,7 +7,7 @@ class PyGAMLogisticRegression:
     def __init__(self):
         '''
         This is a wrapper of regression models in pygam.
-        See: TODO
+        See: https://github.com/dswah/pyGAM
         '''
         pass
 
