@@ -6,6 +6,8 @@ geopandas
 shapely #>= 1.6.4
 matplotlib
 rtree
+pygam >= 0.5.4
+
 
 # For tests
 nose
