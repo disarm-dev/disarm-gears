@@ -1,0 +1,1 @@
+from disarm_gears.gears.pygam_plugins.pygam_logistic_regression import PyGAMLogisticRegression
